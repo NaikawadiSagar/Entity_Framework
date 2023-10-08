@@ -1,0 +1,15 @@
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\Student_Management_System.pdb
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\EntityFramework.dll
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\EntityFramework.xml
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.AssemblyReference.cache
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.frm_Collage_Form.resources
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.CopyComplete
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.exe
+D:\Sagar\Entity Framework\01_Assignment\Student_Management_System\obj\Debug\Student_Management_System.pdb
